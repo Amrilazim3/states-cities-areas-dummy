@@ -1,0 +1,399 @@
+{
+	"Johor": {
+		"Johor Bahru": [
+			"Taman Sentosa",
+			"Taman Pelangi",
+			"Taman Abad",
+			"Taman Mount Austin",
+			"Taman Century",
+			"Taman Perling",
+			"Taman Bukit Indah"
+		],
+		"Skudai": [
+			"Taman Universiti",
+			"Taman Impian Emas",
+			"Taman Mutiara Rini",
+			"Taman Sri Skudai"
+		],
+		"Kluang": [
+			"Taman Sri Kluang",
+			"Taman Sri Lambak",
+			"Taman Gunung Lambak",
+			"Taman Bukit Kluang",
+			"Taman Desa Kluang Barat"
+		],
+		"Muar": [
+			"Taman Sri Maharani",
+			"Taman Bukit Pasir",
+			"Taman Jaya",
+			"Taman Sri Tanjong",
+			"Taman Sri Temenggong",
+			"Taman Sri Plentong"
+		],
+		"Ulu Tiram": [
+			"Taman Desa Tiram",
+			"Taman Kota Masai",
+			"Taman Gaya",
+			"Taman Johor Jaya"
+		],
+		"Senai": [
+			"Taman Impian Senai",
+			"Taman Sri Pulai Perdana",
+			"Taman Sri Pulai Utama"
+		],
+		"Segamat": ["Taman Megah", "Taman Soga", "Taman Muhibbah"],
+		"Kulai": [
+			"Taman Kulai Besar",
+			"Taman Sri Kulai Baru",
+			"Taman Puteri Kulai"
+		],
+		"Kota Tinggi": [
+			"Taman Kota Jaya",
+			"Taman Wijaya",
+			"Taman Laksamana",
+			"Taman Sri Penawar"
+		],
+		"Pontian Kechil": [
+			"Taman Sri Pontian",
+			"Taman Kota Mahkota",
+			"Taman Perindustrian Sawah Sempadan",
+			"Taman Sri Pulai"
+		],
+		"Tangkak": [
+			"Taman Tangkak Jaya",
+			"Taman Sri Tanjung",
+			"Taman Seri Gading",
+			"Taman Desa Jaya",
+			"Taman Bukit Gambir"
+		],
+		"Bukit Bakri": [
+			"Taman Bukit Bakri",
+			"Taman Seri Bayu",
+			"Taman Seri Emas"
+		],
+		"Yong Peng": [
+			"Taman Sri Penggaram",
+			"Taman Bukit Treh",
+			"Taman Desa Harmoni"
+		],
+		"Pekan Nenas": [
+			"Taman Pekan Nenas",
+			"Taman Sutera",
+			"Taman Nusantara",
+			"Taman Sri Jaya"
+		],
+		"Labis": ["Taman Sri Labis", "Taman Bukit Mewah", "Taman Jaya Mas"],
+		"Mersing": ["Taman Mersing Jaya", "Taman Saujana", "Taman Melor"],
+		"Simpang Renggam": [
+			"Taman Desa Renggam",
+			"Taman Simpang Renggam",
+			"Taman Setia Indah"
+		],
+		"Parit Raja": [
+			"Taman Desa Kencana",
+			"Taman Maju Jaya",
+			"Taman Sri Kluang",
+			"Taman Bukit Daga"
+		],
+		"Kelapa Sawit": [
+			"Taman Desa Cemerlang",
+			"Taman Bukit Dahlia",
+			"Taman Saujana"
+		]
+	},
+	"Kedah": {
+		"Alor Setar": [
+			"Alor Setar city center",
+			"Taman Seri Permai",
+			"Taman Wira Mergong",
+			"Kampung Tengah",
+			"Taman Sri Mergong"
+		],
+		"Sungai Petani": [
+			"Sungai Petani city center",
+			"Taman Ria",
+			"Bandar Amanjaya",
+			"Taman Sejati Indah",
+			"Taman Ria Jaya"
+		],
+		"Kulim": [
+			"Kulim town center",
+			"Taman Selasih",
+			"Taman Keranji",
+			"Taman Desa Permai",
+			"Taman Sri Kulim"
+		]
+	},
+	"Kelantan": {
+		"Kota Bharu": [
+			"Kota Bharu city center",
+			"Kampung Sireh",
+			"Kampung Badang",
+			"Kampung Guchil",
+			"Kampung Telaga Batin"
+		],
+		"Tumpat": [
+			"Tumpat town center",
+			"Kampung Pulai Chondong",
+			"Kampung Pulai Chat",
+			"Kampung Berangan",
+			"Kampung Terbakar"
+		],
+		"Bachok": [
+			"Bachok town center",
+			"Kampung Jeram",
+			"Kampung Kelaboran",
+			"Kampung Alor Limbat",
+			"Kampung Chekok"
+		]
+	},
+	"Melaka": {
+		"Melaka City": [
+			"Melaka city center",
+			"Jonker Walk",
+			"Bukit China",
+			"Taman Melaka Raya",
+			"Kampung Morten"
+		],
+		"Ayer Keroh": [
+			"Ayer Keroh town center",
+			"Taman Ayer Keroh Heights",
+			"Taman Tasik Utama",
+			"Kampung Durian Tunggal",
+			"Taman Merdeka"
+		],
+		"Alor Gajah": [
+			"Alor Gajah town center",
+			"Kampung Gajah",
+			"Kampung Kuala Linggi",
+			"Kampung Duyung",
+			"Kampung Masjid"
+		]
+	},
+	"Negeri Sembilan": {
+		"Seremban": [
+			"Seremban town center",
+			"Taman Bukit Kepayang",
+			"Taman Bukit Blossom",
+			"Rasah Jaya",
+			"Senawang"
+		],
+		"Port Dickson": [
+			"Port Dickson town center",
+			"Teluk Kemang",
+			"Taman PD Jaya",
+			"Taman PD Perdana",
+			"Taman PD Utama"
+		],
+		"Nilai": [
+			"Nilai town center",
+			"Taman Desa Cempaka",
+			"Taman Desa Dahlia",
+			"Taman Semarak",
+			"Bandar Baru Nilai"
+		],
+		"Seremban 2": [
+			"Seremban 2 town center",
+			"Vision Homes",
+			"Garden Homes",
+			"S2 Heights",
+			"S2 Heights Business Park"
+		],
+		"Sungai Gadut": [
+			"Sungai Gadut town center",
+			"Taman Bukit Emas",
+			"Taman Bukit Serene",
+			"Taman Sri Cempaka",
+			"Taman Tasik Jaya"
+		]
+	},
+	"Pahang": {
+		"Bentong": [
+			"Karak",
+			"Sungai Dua",
+			"Tras",
+			"Bukit Tinggi",
+			"Lentang",
+			"Bentong Town",
+			"Chenor",
+			"Perting",
+			"Kampung Bukit Tinggi",
+			"Kampung Bukit Tinggi Bentong"
+		],
+		"Cameron Highlands": [
+			"Brinchang",
+			"Tanah Rata",
+			"Kampung Raja",
+			"Ringlet"
+		]
+	},
+	"Perak": {
+		"Ipoh": [
+			"Tambun",
+			"Menglembu",
+			"Jelapang",
+			"Gopeng",
+			"Batu Gajah",
+			"Tanjung Rambutan",
+			"Kampung Kepayang",
+			"Kampung Manjoi",
+			"Kampung Kacang Putih",
+			"Kampung Tawas"
+		],
+		"Taiping": [
+			"Kamunting",
+			"Simpang",
+			"Aulong",
+			"Pokok Assam",
+			"Taman Jana Utama",
+			"Kampung Boyan",
+			"Kampung Dew",
+			"Kampung Jambu",
+			"Kampung Jambu Hulu",
+			"Kampung Titi Besi"
+		]
+	},
+	"Perlis": {
+		"Kangar": [
+			"Taman Sri Pelangi",
+			"Taman Bukit Keteri",
+			"Taman Chuping Utama"
+		],
+		"Arau": ["Taman Sri Arau", "Taman Desa Perdana", "Taman Bukit Bintang"],
+		"Padang Besar": [
+			"Taman Padang Besar Jaya",
+			"Kampung Guar Sanji",
+			"Kampung Hutan Buluh"
+		]
+	},
+	"Pulau Pinang": {
+		"George Town": [
+			"Georgetown Heritage area, Pulau Pinang",
+			"Jelutong, Pulau Pinang",
+			"Tanjung Bungah, Pulau Pinang"
+		],
+		"Bayan Lepas": [
+			"Queensbay Mall, Pulau Pinang",
+			"Bayan Baru, Pulau Pinang",
+			"Penang International Airport, Pulau Pinang"
+		],
+		"Butterworth": [
+			"Penang Sentral, Pulau Pinang",
+			"Pantai Bersih, Pulau Pinang",
+			"Kampung Benggali, Pulau Pinang"
+		]
+	},
+	"Sabah": {
+		"Sandakan": ["Batu Sapi", "Mile 4", "Mile 6", "Mile 7", "Taman Sejati"],
+		"Tawau": ["Apas", "Kubota", "Tawau Lama", "Titingan"],
+		"Lahad Datu": ["Bandar", "Jalan Dam", "Fajar", "Terusan"],
+		"Keningau": ["Kuala Penyu", "Sook", "Tambunan", "Tenom"]
+	},
+	"Sarawak": {
+		"Kuching": [
+			"Batu Kawa",
+			"Batu Lintang",
+			"BDC",
+			"City Centre",
+			"Demak Laut",
+			"Jalan Song",
+			"Kota Sentosa",
+			"Matang",
+			"MJC",
+			"Padungan",
+			"Petra Jaya",
+			"Samarahan",
+			"Satok",
+			"Stutong",
+			"Tabuan Jaya"
+		],
+		"Miri": [
+			"Bakam",
+			"City Centre",
+			"Lutong",
+			"Piasau",
+			"Senadin",
+			"Tanjung Lobang"
+		]
+	},
+	"Selangor": {
+		"Klang": [
+			"Bandar Baru Klang",
+			"Bukit Tinggi",
+			"Kapar",
+			"Meru",
+			"Port Klang"
+		],
+		"Petaling Jaya": [
+			"Ara Damansara",
+			"Bandar Sunway",
+			"Damansara",
+			"Kelana Jaya",
+			"Kota Damansara",
+			"Puchong",
+			"Subang Jaya"
+		]
+	},
+	"Terengganu": {
+		"Besut": [
+			"Bukit Keluang Beach",
+			"Pantai Peranginan Rantau Abang",
+			"Pulau Perhentian",
+			"Pulau Redang",
+			"Taman Negara Pulau Pinang"
+		],
+		"Dungun": ["Pantai Teluk Lipat", "Tanjung Jara Beach"],
+		"Hulu Terengganu": [
+			"Bukit Keluang",
+			"Kenyir Lake",
+			"Kuala Besut Jetty",
+			"Pasar Payang",
+			"Pulau Kapas",
+			"Pulau Lang Tengah"
+		]
+	},
+	"Wilayah Persekutuan": {
+		"Kuala Lumpur": [
+			"Ampang",
+			"Bukit Bintang",
+			"Cheras",
+			"Kepong",
+			"Kuala Lumpur City Centre",
+			"Segambut",
+			"Sentul",
+			"Setapak",
+			"Sri Hartamas",
+			"Taman Melawati",
+			"Titiwangsa",
+			"Wangsa Maju"
+		],
+		"Putrajaya": [
+			"Precinct 1",
+			"Precinct 2",
+			"Precinct 3",
+			"Precinct 4",
+			"Precinct 5",
+			"Precinct 6",
+			"Precinct 7",
+			"Precinct 8",
+			"Precinct 9",
+			"Precinct 10",
+			"Precinct 11",
+			"Presint 12"
+		],
+		"Labuan": [
+			"Batu Arang",
+			"Durian Tunjung",
+			"Jalan Tanjung Purun",
+			"Kampung Bebuloh",
+			"Kampung Bukit Kuda",
+			"Kampung Layang-Layangan",
+			"Kampung Lubok Temiang",
+			"Kampung Patau-Patau",
+			"Kampung Sungai Bedaun",
+			"Pantai",
+			"Rancha-Rancha Industrial Estate",
+			"Sungai Labu"
+		]
+	}
+}
